@@ -1,0 +1,10 @@
+body {
+    font-style: inherit;
+    color: aqua;
+    background-color: blue;
+}
+h1{
+    text-align: center;
+    font-weight: 600;
+    border: 2px solid black;
+}
